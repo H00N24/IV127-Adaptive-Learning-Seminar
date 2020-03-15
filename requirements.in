@@ -1,0 +1,14 @@
+cython
+pip-tools
+black
+nb_black
+flake8
+mypy
+scikit-learn
+umap-learn
+jupyter
+seaborn
+numpy
+pandas
+ipython
+ipykernel
