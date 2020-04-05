@@ -7,8 +7,12 @@ mypy
 scikit-learn
 umap-learn
 jupyter
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+tqdm
 seaborn
 numpy
 pandas
+pyastsim
 ipython
 ipykernel
