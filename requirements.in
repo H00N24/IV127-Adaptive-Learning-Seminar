@@ -14,5 +14,6 @@ seaborn
 numpy
 pandas
 pyastsim
+pycode_similar
 ipython
 ipykernel
