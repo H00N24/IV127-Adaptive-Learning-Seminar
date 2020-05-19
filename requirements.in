@@ -17,3 +17,5 @@ pyastsim
 pycode_similar
 ipython
 ipykernel
+streamlit
+altair
